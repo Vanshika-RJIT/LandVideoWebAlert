@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LandVideoWebAlert</string>
+    <string name="todo">Calender</string>
+    <string name="button">Button</string>
+    <string name="todo1">TODO</string>
+    <string name="time">Time</string>
+    <string name="button1">Button</string>
+</resources>
